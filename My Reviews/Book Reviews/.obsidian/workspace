@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "d111688711e3e1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4301e365a1fe77",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "810ecd54a4fb267b",
+    "type": "split",
+    "children": [
+      {
+        "id": "799a8c0b14dbed08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64045c6b8421be78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45dfe84e070e92e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5277aac5c47397a1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5b4ca3663538a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a06f1e3b1e2531e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1add352a96ca92d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a3898a33987e7d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "089ffd8c2b507c27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82ca949049a7d477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7c4301e365a1fe77",
+  "lastOpenFiles": [
+    "The Red Queen: Sex and the Evolution of Human Nature.md",
+    "Gödel, Escher, Bach: An Eternal Golden Braid.md",
+    "The Way of Being.md",
+    "Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher.md",
+    "The Story of the Human Body: Evolution, Health, and Disease.md",
+    "The Stranger.md",
+    "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works.md",
+    "Mind in Life: Biology, Phenomenology, and the Sciences of Mind.md",
+    "Meetings with Remarkable Men.md",
+    "Love for Imperfect Things: How to Accept Yourself in a World Striving for Perfection.md"
+  ]
+}
