@@ -1,1 +1,3 @@
-# books
+# Notes
+
+- My notes on various things
